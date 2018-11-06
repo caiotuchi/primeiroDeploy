@@ -1,0 +1,4 @@
+.wttd
+.vscode
+*.sqlite3
+.env
